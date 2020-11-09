@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "title": "Cashel Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/cashelblue.jpg",
+      "price": 5.43,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Dunshyre Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/dunshyreblue.jpg",
+      "price": 8,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Dunshyre Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/evesselection.jpg",
+      "price": 45,
+      "oldPrice": 50,
+      "discount": 5
+    },
+    {
+      "title": "Hebridean Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/hebridean.jpg",
+      "price": 6.75,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Iain's Choice",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/iains.jpg",
+      "price": 50,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Karen's Choice",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/karens.jpg",
+      "price": 40,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Lanark Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/lanark.jpg",
+      "price": 6.82,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Membrillo Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/membrillo.jpg",
+      "price": 4,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Mikey's Selection",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/mikeys.jpg",
+      "price": 70,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "title": "Membrillo Blue",
+      "img": "https://cdn.adimo.co/clients/Adimo/test/images/pasteurised.jpg",
+      "price": 40,
+      "oldPrice": 32,
+      "discount": null
+    }
+  ],
+  "length": 10,
+  "sum": 276,
+  "avg": 27.6
+}
